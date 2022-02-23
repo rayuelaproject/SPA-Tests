@@ -1,5 +1,5 @@
 # <Your-Project-Title>
-## <img src="../images/description.jpg" alt="Logo" width="1698">
+## <img src="images/description.jpg" alt="Logo" width="1698">
   
 <div align="justify">
   
@@ -22,7 +22,7 @@ For this category of connected devices, the feature tests were divided into four
 
 </div>
   
-## <img src="../images/testwithus.jpg" alt="Logo" width="1698">
+## <img src="images/testwithus.jpg" alt="Logo" width="1698">
   
 <div align="justify">
  
@@ -38,7 +38,7 @@ For this category of connected devices, the feature tests were divided into four
 
  </div>
   
-## <img src="../images/results.jpg" alt="Logo" width="1698">
+## <img src="images/results.jpg" alt="Logo" width="1698">
     
 <div align="justify">
  
